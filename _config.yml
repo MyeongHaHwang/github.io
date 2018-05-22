@@ -14,9 +14,9 @@ author-img: david-freeman.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: MyeongHaHwang # add your Github handle
+social-github: # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: hmh929@kaist.ac.kr# add your Email address
+social-email: hmh929@kaist.ac.kr # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
