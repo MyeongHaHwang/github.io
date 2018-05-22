@@ -9,5 +9,10 @@ sidebar_link: true
   for your own use upon downloading. Carry on!
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Ph.D Student in Bio and Brain Engineering at Korea Advanced Institute of Science and Technology (KAIST)
+
+A member of Bioinformatics and Synthetic Biology Lab (advisor: Prof. Gwan-Su Yi) at KAIST 
+
+Subject of Research: Development of SNP/GEXP Markers Scoring Method based on Rheumatoid Arthritis(RA) Biclustering
+
+Research Topics: Bioinformatics, Text Mining, Machine Learning, Deep Learning, Natural Language Processing(NLP)
