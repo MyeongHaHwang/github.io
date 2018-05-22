@@ -8,6 +8,8 @@ sidebar_link: true
   Hey there! This is research blog for Bioinformatics & Deep Learning
 </p>
 
+![황명하 반명함 BU1A1791](./_screenshots/황명하 반명함 BU1A1791.jpg)
+
 Myeong-Ha Hwang
 
 Ph.D Student in Bio and Brain Engineering at Korea Advanced Institute of Science and Technology (KAIST)
