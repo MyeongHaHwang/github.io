@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Bioinfo & Deep Learning
+title:            Bioinfomatics & Deep Learning
 tagline:          'A Jekyll theme'
 description:      'I am <a href="https://sites.google.com/site/raphael900929/" target="_blank">Myeong-Ha Hwang</a> who want to be a Data-Scientist. The site of Lab is in <a href="bisyn.kaist.ac.kr" target="_blank">Here</a>'
 url:              https://myeonghahwang.github.io/
