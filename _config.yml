@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  url:            https://myeonghahwang.github.io/
 
 paginate:         5
 # paginate_path:    '/page:num'
