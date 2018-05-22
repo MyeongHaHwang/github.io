@@ -5,9 +5,10 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  Hey there! This is research blog for Bioinformatics & Deep Learning
 </p>
+
+Myeong-Ha Hwang
 
 Ph.D Student in Bio and Brain Engineering at Korea Advanced Institute of Science and Technology (KAIST)
 
