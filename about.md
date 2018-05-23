@@ -8,7 +8,7 @@ sidebar_link: true
   Hey there! This is research blog for Bioinformatics & Deep Learning
 </p>
 
-![황명하 반명함 BU1A1791](./_screenshots/황명하 반명함 BU1A1791.jpg)
+![1](./_screenshots/1.png)
 
 Myeong-Ha Hwang
 
