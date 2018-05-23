@@ -8,7 +8,7 @@ sidebar_link: true
   Hey there! This is research blog for Bioinformatics & Deep Learning
 </p>
 
-![1](https://github.com/MyeongHaHwang/myeonghahwang.github.io/blob/master/_screenshots/1.png?raw=true "Title")
+![1](https://github.com/MyeongHaHwang/myeonghahwang.github.io/blob/master/_screenshots/HMH.jpeg?raw=true "Title")
 
 Myeong-Ha Hwang
 
