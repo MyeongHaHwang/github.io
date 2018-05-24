@@ -12,10 +12,12 @@ sidebar_link: true
 
 Myeong-Ha Hwang
 
-Ph.D Student in Bio and Brain Engineering at Korea Advanced Institute of Science and Technology (KAIST)
+Ph.D Student at Korea Advanced Institute of Science and Technology (KAIST)
 
-A member of Bioinformatics and Synthetic Biology Lab (advisor: Prof. Gwan-Su Yi) at KAIST 
+A member of Bioinformatics and Synthetic Biology Laboratory
 
-Subject of Research: Development of SNP/GEXP Markers Scoring Method based on Rheumatoid Arthritis(RA) Biclustering
+Subject of Research: 
+Development of SNP/GEXP Markers Scoring Method based on Rheumatoid Arthritis(RA) Biclustering
 
-Research Topics: Bioinformatics, Text Mining, Machine Learning, Deep Learning, Natural Language Processing(NLP)
+Research Topics: 
+Bioinformatics, Text Mining, Machine Learning, Deep Learning, Natural Language Processing(NLP)
