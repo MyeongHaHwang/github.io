@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This is research blog for Bioinformatics & Deep Learning
+  Hey there! This is my research blog for Bioinformatics & Deep Learning
 </p>
 
 ![1](https://github.com/MyeongHaHwang/myeonghahwang.github.io/blob/master/_screenshots/HMH.jpeg?raw=true "Title")
@@ -14,7 +14,7 @@ Myeong-Ha Hwang <a href="https://sites.google.com/site/raphael900929/">[CV]</a>
 
 Ph.D Student at <a href="https://www.kaist.ac.kr/">Korea Advanced Institute of Science and Technology (KAIST)</a> 
 
-A member of Bioinformatics and Synthetic Biology Laboratory
+A member of Bioinformatics and Synthetic Biology Laboratory <a href="https://bisyn.kaist.ac.kr/">[BiSyn]</a>
 
 Subject of Research: 
 Development of SNP/GEXP Markers Scoring Method based on Rheumatoid Arthritis(RA) Biclustering
