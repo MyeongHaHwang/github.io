@@ -8,7 +8,7 @@ sidebar_link: true
   Hey there! This is my research blog for Bioinformatics & Deep Learning
 </p>
 
-![1](https://github.com/MyeongHaHwang/myeonghahwang.github.io/blob/master/_screenshots/HMH.jpeg?raw=true "Title")
+![1](https://github.com/MyeongHaHwang/myeonghahwang.github.io/blob/master/_screenshots/HMH.jpeg?raw=true "Title"){: width="50%" height="50%"}
 
 Myeong-Ha Hwang <a href="https://sites.google.com/site/raphael900929/">[CV]</a>
 
