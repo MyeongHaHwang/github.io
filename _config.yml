@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Bioinfo & Deep Learning
-tagline:          'A Jekyll theme'
+tagline:          'Myeong-Ha Hwang'
 description:      'I am <a href="https://sites.google.com/site/raphael900929/" target="_blank">Myeong-Ha Hwang</a> who want to be a Data-Scientist. The site of Lab is in <a href="http://bisyn.kaist.ac.kr" target="_blank">Here</a>'
 url:              https://myeonghahwang.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
