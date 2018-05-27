@@ -10,9 +10,9 @@ sidebar_link: true
 
 ![1](https://github.com/MyeongHaHwang/myeonghahwang.github.io/blob/master/_screenshots/HMH.jpeg?raw=true "Title")
 
-Myeong-Ha Hwang
+Myeong-Ha Hwang <a href="https://sites.google.com/site/raphael900929/">[CV]</a>
 
-Ph.D Student at Korea Advanced Institute of Science and Technology (KAIST)
+Ph.D Student at <a href="https://www.kaist.ac.kr/">Korea Advanced Institute of Science and Technology (KAIST)</a> 
 
 A member of Bioinformatics and Synthetic Biology Laboratory
 
