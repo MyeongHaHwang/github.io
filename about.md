@@ -21,3 +21,6 @@ Development of SNP/GEXP Markers Scoring Method based on Rheumatoid Arthritis(RA)
 
 Research Topics: 
 Bioinformatics, Text Mining, Machine Learning, Deep Learning, Natural Language Processing(NLP)
+
+Contact:
+hmh929@kaist.ac.kr
