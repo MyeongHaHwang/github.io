@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Convolutional Neural Networks"
+title: "Recurrent Neural Network"
 excerpt: "A large amount of sample text to test readability of a text heavy page."
 categories:
   - Deep_Learning
 tags:
   - DeepLearning
-  - ConvolutionalNeuralNetworks
-  - CNN
+  - Recurrent Neural Network
+  - RNN
 last_modified_at: 2012-01-29T12:26:59-05:00
 ---
 
