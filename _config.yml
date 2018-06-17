@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Bioinfo & Deep Learning
 tagline:          'Myeong-Ha Hwang'
-description:      'I am <a href="https://sites.google.com/site/raphael900929/" target="_blank">Myeong-Ha Hwang</a> who want to be a Data-Scientist. If you have any questions or comments, Contact hmh929@kaist.ac.kr
+description:      'I am <a href="https://sites.google.com/site/raphael900929/" target="_blank">Myeong-Ha Hwang</a> who want to be a Data-Scientist. If you have any questions or comments, Contact hmh929@kaist.ac.kr'
 url:              https://myeonghahwang.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
