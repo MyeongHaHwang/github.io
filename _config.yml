@@ -35,7 +35,8 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
                                 
 disqus:
-  shortname: my-disqus-shortname
+  shortname:        my-disqus-shortname
+  url:              https://myeonghahwang.github.io/
   
 github:
   repo:             https://github.com/MyeongHaHwang/
